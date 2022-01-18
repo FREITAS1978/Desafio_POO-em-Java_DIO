@@ -2,8 +2,6 @@
 Aprendendo na Prática Programação Orientada a Objetos
 Com orientação de Camila Cavalcante da DIO
 
-APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.
-Desafio este que tive a honra de co-criar com a plataforma de cursos online: "https://web.digitalinnovation.one/"
 O objetivo principal é colocar em prática umas das principais ferramentas da OO: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO, através de um projeto Java.
 
 Passo-a-Passo
